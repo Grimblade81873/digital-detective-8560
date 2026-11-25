@@ -11,7 +11,7 @@ Each mission is completed and committed separately, in order.
 | Detail | Info |
 |--------|------|
 | Name | Viraat Chandel |
-| USN | 8560 |
+| USN | 2392608560 |
 | Campus / Section | Newton School of Technology (S-Vyasa) BATCH A2 |
 | GitHub Username | Grimblade81873 |
 | Repository Name | digital-detective-8560 |
